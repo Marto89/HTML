@@ -1,0 +1,5 @@
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\02.NestedItem\bin\02.NestedItem.dll
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\02.NestedItem\bin\02.NestedItem.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\02.NestedItem\obj\Debug\02.NestedItem.csprojResolveAssemblyReference.cache
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\02.NestedItem\obj\Debug\02.NestedItem.dll
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\02.NestedItem\obj\Debug\02.NestedItem.pdb

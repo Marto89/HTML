@@ -1,0 +1,5 @@
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\01.HTML-page\bin\01.HTML-page.dll
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\01.HTML-page\bin\01.HTML-page.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\01.HTML-page\obj\Debug\01.HTML-page.csprojResolveAssemblyReference.cache
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\01.HTML-page\obj\Debug\01.HTML-page.dll
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\01.HTML-basics\01.HTML-page\obj\Debug\01.HTML-page.pdb

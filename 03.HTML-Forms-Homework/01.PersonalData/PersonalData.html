@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <form>
+        <table border="1" cellpadding="3" cellspacing="0">
+            <tr>
+                <th width="150" align="right" colspan="2">
+                    <label for="LastName">Last Name</label>
+                </th>
+                <td width="250" colspan="3">
+                    <input type="text" id="LastName" required style="width:230px" />
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="FirstName">First Name</label>
+                </th>
+                <td colspan="3">
+                    <input type="text" id="FirstName" required style="width:230px" />
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="Adress">Adress</label>
+                </th>
+                <td colspan="3">
+                    <textarea id="Adress" required style="width:230px"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="City">City</label>
+                </th>
+                <td>
+                    <input type="text" id="City" required />
+                </td>
+                <th>
+                    <label for="State">State</label>
+                </th>
+                <td>
+                    <input type="text" id="State" required style="width:40px" />
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="ZipCode">Zip/Postal Code</label>
+                </th>
+                <td colspan="3">
+                    <input type="text" id="ZipCode" required style="width:50px" />
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="Country">Country</label>
+                </th>
+                <td colspan="3">
+                    <select id="Country" style="width:170px">
+                        <option selected="selected">
+                            Bulgaria
+                        </option>
+                        <option>USA</option>
+                        <option>Germany</option>
+                        <option>England</option>
+                        <option>France</option>
+                        <option>Israel</option>
+                        <option>Russia</option>
+                        <option>Greece</option>
+                        <option>Spain</option>
+                    </select>
+
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2" width="150">
+                    <label for="Phone">Phone(country code, area code, number)</label>
+                </th>
+                <td colspan="3">
+                    (+
+                    <input type="tel" id="Phone" placeholder="359" required style="width:40px" />
+                    )
+                    <input type="tel" id="Phone" placeholder="88" required style="width:30px" />
+                    -
+                    <input type="tel" id="Phone" placeholder="8334343" required style="width:130px" />
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="Email">E-mail</label>
+                </th>
+                <td colspan="3">
+                    <input type="email" id="Email" placeholder="asdada@abv.bg" required style="width:230px" />
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="Month">Birth date</label>
+                </th>
+                <td colspan="3">
+                    <label for="Month">Month</label>
+                    <input type="datetime" id="Month" placeholder="06" required style="width:20px" />
+                    <label for="Day">Day</label>
+                    <input type="datetime" id="Day" placeholder="14" required style="width:20px" />
+                    <label for="Year">Year(4 digits)</label>
+                    <input type="datetime" id="Month" placeholder="06" required style="width:30px" />
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="gender">Gender</label>
+                </th>
+                <td colspan="3">
+                    <select id="gender">
+                        <option selected="selected">
+                            Male
+                        </option>
+                        <option>Female</option>
+                        <option>Other</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">Starting date</th>
+                <td colspan="3">
+                    <input type="radio" id="StartingDate1" name="StartingDate" value="Spring 2006" />
+                    <label for="StartingDate1">Spring 2006</label>
+                    <input type="radio" id="StartingDate2" name="StartingDate" value="Summer 2006" />
+                    <label for="StartingDate2">Summer 2006</label>
+                </td>
+            </tr>
+            <tr>
+                <th align="right" colspan="2">
+                    <label for="CQ"> Comments/Questions </label>
+                </th>
+                <td colspan="3">
+                    <textarea id="CQ" placeholder="Please send me more information about loggin." required style="width:230px;height:100px"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5" align="center" style="background-color:lightblue">
+                    <input type="submit" />
+                    <input type="reset" value="Clear this Form"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

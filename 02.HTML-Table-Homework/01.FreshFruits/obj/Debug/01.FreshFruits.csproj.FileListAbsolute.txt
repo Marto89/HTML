@@ -1,0 +1,5 @@
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\02.HTML-Table\01.FreshFruits\bin\01.FreshFruits.dll
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\02.HTML-Table\01.FreshFruits\bin\01.FreshFruits.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\02.HTML-Table\01.FreshFruits\obj\Debug\01.FreshFruits.csprojResolveAssemblyReference.cache
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\02.HTML-Table\01.FreshFruits\obj\Debug\01.FreshFruits.dll
+F:\Programming Tools\Visual Studio 2013\Projects\HTML\02.HTML-Table\01.FreshFruits\obj\Debug\01.FreshFruits.pdb
